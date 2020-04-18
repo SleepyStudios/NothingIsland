@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Scenery
+  - Teleport
+  - CaveFloor
+  - MountainTop
+  - MountainPath
+  - RatMovementArea
+  - WorldItem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - RatMovement
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Cave
+    uniqueID: 3684567849
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Objects
+    uniqueID: 3887649389
+    locked: 0
+  - name: Foreground
+    uniqueID: 2860902675
+    locked: 0
+  - name: Cave Foreground
+    uniqueID: 22681143
+    locked: 0
+  - name: Decoration
+    uniqueID: 4251595753
+    locked: 0
